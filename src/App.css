@@ -1,11 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@300&display=swap');
+
 * {
   margin: 0;
   padding: 0;
   outline: 0;
   box-sizing: border-box;
+  font-family: 'Mulish', sans-serif;
 }
 
-.mainContainer{
-  align-items: center;
-  justify-content: center;
+.mainContainer {
+  justify-content: space-around;
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
 }

@@ -7,6 +7,8 @@ export default function HomePage() {
   return (
     <>
       <BoxOfContent />
+      <BoxOfContent />
+      <BoxOfContent />
     </>
   );
 }
